@@ -15,16 +15,15 @@
 -->
 
 
-<p> 
 I'm Alessandro, I'm 23 and I'm working on my master degree in computer science, I want to get involved in the field of cloud computing, distributed computing and high performance systems. 
-<\p>
+
 <br>
-<p>
+
 I work on a lot of stuff and maybe half of it gets through. I'm currently trying to implement a simple coherent hashing system that I've heard about during my web algorithmics course.
-<\p>
-<p>
+
+
 In the meanwhile I'm working on the following university projects:
-<\p>
+
   - cloudy-notes ☁️ <br>
     for my cloud computing course.
   

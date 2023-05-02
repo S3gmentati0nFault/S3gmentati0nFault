@@ -24,7 +24,7 @@ I work on a lot of stuff and maybe half of it gets through. I'm currently trying
 
 In the meanwhile I'm working on the following university projects:
 
-  - cloudy-notes ☁️ <br>
+  - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">cloudy-notes<\a> ☁️ <br>
     for my cloud computing course.
   
   - The Distributed and Pervasive Systems homework activities 👩‍👩‍👧‍👦 <br>

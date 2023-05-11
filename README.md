@@ -28,7 +28,7 @@ In the meanwhile I'm working on the following university projects:
     for my cloud computing course.
   
   - The Distributed and Pervasive Systems <a href="https://github.com/S3gmentati0nFault/lab-dsp">homework activities</a> 👩‍👩‍👧‍👦 <br>
-    The activities revolve around REST services, multi-threaded systems, MQTT (only god knows what that's supposed to be).
+    The activities revolve around REST services, multi-threaded systems and MQTT.
     
   - Greenfield 🪴 <br>
     Which is the actual project of the DSP course and will be private until march 2024 because of plagiarism dispositions.

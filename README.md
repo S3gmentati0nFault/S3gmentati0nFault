@@ -33,4 +33,6 @@ In the meanwhile I'm working on the following university projects:
   - Greenfield 🪴 <br>
     Which is the actual project of the DSP course and will be private until march 2024 because of plagiarism dispositions.
     
+  - Messing around with <a href="https://github.com/S3gmentati0nFault/dotfiles">dotfiles</a> 💻 <br>
+    
 In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).

@@ -31,6 +31,9 @@ In the meanwhile I'm working on the following university projects:
   - The Distributed and Pervasive Systems <a href="https://github.com/S3gmentati0nFault/lab-dsp">homework activities</a> 👩‍👩‍👧‍👦 <br>
     The activities revolve around REST services, multi-threaded systems and MQTT.
   -->
+
+  - <a href="https://github.com/S3gmentati0nFault/Rust-for-fun">rust-for-fun</a> ⚙️ <br>
+    I'm trying to learn Rust by doing some project Euler challenges.
   
   - Greenfield 🪴 <br>
     Which is the actual project of the DSP course and will be private until march 2024 because of plagiarism dispositions.

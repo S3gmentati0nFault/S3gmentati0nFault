@@ -37,7 +37,7 @@ In the meanwhile I'm working on the following university projects:
     I'm trying to learn Rust by doing some project Euler challenges.
   -->
 
-  - Algoweb 🗺️ <br>
+  - <a href="https://github.com/S3gmentati0nFault/Algoweb">Algoweb</a> 🗺️ <br>
     Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition)
   
   - Greenfield 🪴 <br>

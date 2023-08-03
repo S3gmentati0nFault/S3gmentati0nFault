@@ -23,10 +23,14 @@ I work on a lot of stuff and maybe half of it gets through. I'm currently trying
 
 
 In the meanwhile I'm working on the following university projects:
-
+<!--
   - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">cloudy-notes</a> ☁️ <br>
     for my cloud computing course.
+  -->
   
+  - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">disk-utility</a> 💾 <br>
+    a very useful (and essentially custom) utility I am creating to implement on a computer at my place to preserve the pictures we have taken over the years. I am trying to mimic a multithreaded approach and handling of the structure similar to the one used to keep <a href="https://en.wikipedia.org/wiki/Log-structured_merge-tree"> LSM trees </a> alive.
+    
   <!--
   - The Distributed and Pervasive Systems <a href="https://github.com/S3gmentati0nFault/lab-dsp">homework activities</a> 👩‍👩‍👧‍👦 <br>
     The activities revolve around REST services, multi-threaded systems and MQTT.

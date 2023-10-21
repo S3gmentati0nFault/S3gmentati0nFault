@@ -43,12 +43,13 @@ In the meanwhile I'm working on the following university projects:
     I'm trying to learn Rust by doing some project Euler challenges.
   -->
 
+<!--
   - <a href="https://github.com/S3gmentati0nFault/Algoweb">Algoweb</a> 🗺️ <br>
     Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition)
   
   - Greenfield 🪴 <br>
     Which is the actual project of the DSP course and will be private until march 2024 because of plagiarism dispositions.
-    
+-->
 <!--
   - Messing around with <a href="https://github.com/S3gmentati0nFault/dotfiles">dotfiles</a> 💻 <br>
 -->

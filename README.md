@@ -19,10 +19,10 @@ I'm Alessandro, I'm 23 and I'm working on my master degree in computer science, 
 
 <br>
 
-I work on a lot of stuff and maybe half of it gets through. I'm currently trying to implement a simple <a href="https://github.com/S3gmentati0nFault/Coherent-Hashing">coherent hashing system</a> that I've heard about during my web algorithmics course.
+I work on a lot of stuff and maybe half of it gets through.
 
 
-In the meanwhile I'm working on the following university projects:
+In the meanwhile I'm working on the following projects:
 <!--
   - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">cloudy-notes</a> ☁️ <br>
     for my cloud computing course.
@@ -53,5 +53,13 @@ In the meanwhile I'm working on the following university projects:
 <!--
   - Messing around with <a href="https://github.com/S3gmentati0nFault/dotfiles">dotfiles</a> 💻 <br>
 -->
+- Discrete structures 1 Homeworks 📖 <br>
+  I am studying in another country for the next six months and it's as if we have gone back to high school :D
+
+- GPU computing Homeworks 📚 <br>
+  Same as above
+
+- Machine learning and physics 🧠 <br>
+  I suppose you know the deal by now.
 
 In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).

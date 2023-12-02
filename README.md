@@ -56,10 +56,7 @@ In the meanwhile I'm working on the following projects:
 - Discrete structures 1 Homeworks 📖 <br>
   I am studying in another country for the next six months and it's as if we have gone back to high school :D
 
-- GPU computing Homeworks 📚 <br>
-  Same as above
-
-- Machine learning and physics 🧠 <br>
+- Machine learning and physics Homeworks 🧠 <br>
   I suppose you know the deal by now.
 
 In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).

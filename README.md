@@ -33,10 +33,7 @@ In the meanwhile I'm working on the following projects:
     a very useful (and essentially custom) utility I am creating to implement on a computer at my place to preserve the pictures we have taken over the years. I am trying to mimic a multithreaded approach and handling of the structure similar to the one used to keep <a href="https://en.wikipedia.org/wiki/Log-structured_merge-tree"> LSM trees </a> alive.
 -->
     
-  <!--
-  - The Distributed and Pervasive Systems <a href="https://github.com/S3gmentati0nFault/lab-dsp">homework activities</a> 👩‍👩‍👧‍👦 <br>
-    The activities revolve around REST services, multi-threaded systems and MQTT.
-  -->
+  
   
   <!--
   - <a href="https://github.com/S3gmentati0nFault/Rust-for-fun">rust-for-fun</a> ⚙️ <br>
@@ -58,5 +55,8 @@ In the meanwhile I'm working on the following projects:
 
 - Machine learning and physics Homeworks 🧠 <br>
   I suppose you know the deal by now.
+
+- The Distributed and Pervasive Systems <a href="https://github.com/S3gmentati0nFault/lab-dsp">homework activities</a> 👩‍👩‍👧‍👦 <br>
+  The activities revolve around REST services, multi-threaded systems and MQTT. I am trying to make the repository better by adding some documentation, working my way towards the final release.
 
 In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).

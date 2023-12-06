@@ -1,4 +1,4 @@
-### Hola!
+## Hola!
 
 <!--
 **S3gmentati0nFault/S3gmentati0nFault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +46,9 @@ In the meanwhile I'm working on the following projects:
   
   - Greenfield 🪴 <br>
     Which is the actual project of the DSP course and will be private until march 2024 because of plagiarism dispositions.
+
+    - The Distributed and Pervasive Systems <a href="https://github.com/S3gmentati0nFault/lab-dsp">homework activities</a> 👩‍👩‍👧‍👦 <br>
+  The activities revolve around REST services, multi-threaded systems and MQTT. I am trying to make the repository better by adding some documentation, working my way towards the final release.
 -->
 <!--
   - Messing around with <a href="https://github.com/S3gmentati0nFault/dotfiles">dotfiles</a> 💻 <br>
@@ -56,7 +59,11 @@ In the meanwhile I'm working on the following projects:
 - Machine learning and physics Homeworks 🧠 <br>
   I suppose you know the deal by now.
 
-- The Distributed and Pervasive Systems <a href="https://github.com/S3gmentati0nFault/lab-dsp">homework activities</a> 👩‍👩‍👧‍👦 <br>
-  The activities revolve around REST services, multi-threaded systems and MQTT. I am trying to make the repository better by adding some documentation, working my way towards the final release.
+- <a href="https://github.com/S3gmentati0nFault/Algoweb">Algoweb</a> 🗺️ <br>
+  Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition)
 
 In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).
+
+### Latest releases 📯
+- Minor release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/Minor-release">Algoweb</a>
+- First release for the Distributed and Pervasive systems Laboratory activities -> <a href="https://github.com/S3gmentati0nFault/Lab-dsp/releases/tag/First-release">Lab DSP</a>

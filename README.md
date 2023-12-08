@@ -53,7 +53,7 @@ In the meanwhile I'm working on the following projects:
 <!--
   - Messing around with <a href="https://github.com/S3gmentati0nFault/dotfiles">dotfiles</a> 💻 <br>
 -->
-- Discrete structures 1 Homeworks 📖 <br>
+- <a href="https://github.com/S3gmentati0nFault/discrete-structures-1">Discrete Structures 1 Homeworks</a> 📖 <br>
   I am studying in another country for the next six months and it's as if we have gone back to high school :D
 
 - Machine learning and physics Homeworks 🧠 <br>

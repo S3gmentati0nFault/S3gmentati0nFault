@@ -59,8 +59,12 @@ In the meanwhile I'm working on the following projects:
 - Machine learning and physics Homeworks 🧠 <br>
   I suppose you know the deal by now.
 
+- Discrete structures notes 📖 <br>
+  Since unfortunately there is no material for the course I am providing my own.
+
+<!--
 - <a href="https://github.com/S3gmentati0nFault/Algoweb">Algoweb</a> 🗺️ <br>
-  Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition)
+  Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition) -->
 
 In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).
 

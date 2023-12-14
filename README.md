@@ -56,7 +56,7 @@ In the meanwhile I'm working on the following projects:
 - <a href="https://github.com/S3gmentati0nFault/discrete-structures-1">Discrete Structures 1 Homeworks</a> 📖 <br>
   I am studying in another country for the next six months and it's as if we have gone back to high school :D
 
-- <a href="https://github.com/S3gmentati0nFault/machine-learning-physics/settings">Machine Learning and Physics Homeworks</a> 🧠 <br>
+- <a href="https://github.com/S3gmentati0nFault/machine-learning-physics/">Machine Learning and Physics Homeworks</a> 🧠 <br>
   I suppose you know the deal by now.
 
 - Discrete structures notes 📖 <br>

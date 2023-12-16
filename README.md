@@ -69,6 +69,8 @@ In the meanwhile I'm working on the following projects:
 In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).
 
 ### Latest releases 📯
+In the following section I leave the links to the latest releases for my projects (from older to newer).
 - Minor release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/Minor-release">Algoweb</a>
 - First release for the Distributed and Pervasive systems Laboratory activities -> <a href="https://github.com/S3gmentati0nFault/Lab-dsp/releases/tag/First-release">Lab DSP</a>
 - Only real release for my thesis project -> <a href="https://github.com/S3gmentati0nFault/Anagrafica-Aziendale/releases">Microservice web application</a>
+- Minor release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/versione_1.2">Algoweb</a>

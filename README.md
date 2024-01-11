@@ -83,3 +83,4 @@ In the following section I leave the links to the latest releases for my project
 - First release for the Distributed and Pervasive systems Laboratory activities -> <a href="https://github.com/S3gmentati0nFault/Lab-dsp/releases/tag/First-release">Lab DSP</a>
 - Only real release for my thesis project -> <a href="https://github.com/S3gmentati0nFault/Anagrafica-Aziendale/releases">Microservice web application</a>
 - Minor release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/versione_1.2">Algoweb</a>
+- Major release for my Autoencoders project -> <a href="https://github.com/S3gmentati0nFault/autoencoders/releases/tag/Major">Autoencoders</a>

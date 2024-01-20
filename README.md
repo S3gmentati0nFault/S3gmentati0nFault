@@ -65,14 +65,13 @@ In the meanwhile I'm working on the following projects:
   I suppose you know the deal by now.
 -->
 
-<!--
 - <a href="https://github.com/S3gmentati0nFault/Discrete-Structures-Notes">Discrete structures notes</a> 📖 <br>
   Since unfortunately there is no material for the course I am providing my own.
--->
 
-
+<!--
 - <a href="https://github.com/S3gmentati0nFault/autoencoders">Autoencoders</a> 🎦 <br>
   My implementation of an autoencoder able to recognize top and QCD jets in the field of particle physics
+-->
 
 <!--
 - <a href="https://github.com/S3gmentati0nFault/Algoweb">Algoweb</a> 🗺️ <br>

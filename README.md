@@ -81,8 +81,8 @@ In my spare time I play the bass (really badly) and work on my podcast (<a href=
 
 ### Latest releases 📯
 In the following section I leave the links to the latest releases for my projects (from older to newer).
-- First release for the Distributed and Pervasive systems Laboratory activities -> <a href="https://github.com/S3gmentati0nFault/Lab-dsp/releases/tag/First-release">Lab DSP</a>
 - Only real release for my thesis project -> <a href="https://github.com/S3gmentati0nFault/Anagrafica-Aziendale/releases">Microservice web application</a>
 - Minor release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/versione_1.2">Algoweb</a>
 - Major release for my Autoencoders project -> <a href="https://github.com/S3gmentati0nFault/autoencoders/releases/tag/Major">Autoencoders</a>
 - Major release for my bachelor thesis -> <a href="https://github.com/S3gmentati0nFault/Tesi-triennale/releases/tag/Major">Tesi-triennale</a>
+- Beta release for the notes I wrote for Cloud computing technologies -> <a href="https://github.com/S3gmentati0nFault/Cloudy-notes/releases/tag/First-release">Cloudy-notes</a>

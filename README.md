@@ -23,10 +23,8 @@ I work on a lot of stuff and maybe half of it gets through.
 
 
 In the meanwhile I'm working on the following projects:
-<!--
   - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">cloudy-notes</a> ☁️ <br>
-    for my cloud computing course.
-  -->
+    I'm revising the notes for my Cloud Computing Technologies course.
 
   <!--
   - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">disk-utility</a> 💾 <br>

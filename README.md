@@ -22,9 +22,7 @@ I'm Alessandro, I'm 23 and I'm working on my master degree in computer science, 
 I work on a lot of stuff and maybe half of it gets through.
 
 
-In the meanwhile I'm working on the following projects:
-  - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">cloudy-notes</a> ☁️ <br>
-    I'm revising the notes for my Cloud Computing Technologies course.
+On vacation! Leave me alone.
 
   <!--
   - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">disk-utility</a> 💾 <br>
@@ -75,12 +73,13 @@ In the meanwhile I'm working on the following projects:
 - <a href="https://github.com/S3gmentati0nFault/Algoweb">Algoweb</a> 🗺️ <br>
   Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition) -->
 
-In my spare time I play the bass (really badly) and work on my podcast (<a href="https://www.youtube.com/@overhear173/videos">Overhear Podcast</a>).
+In my spare time I enjoy watching movies and trying to do something productive with my life.
+
 
 ### Latest releases 📯
 In the following section I leave the links to the latest releases for my projects (from older to newer).
-- Minor release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/versione_1.2">Algoweb 1.2</a>
 - Major release for my Autoencoders project -> <a href="https://github.com/S3gmentati0nFault/autoencoders/releases/tag/Major">Autoencoders</a>
 - Major release for my bachelor thesis -> <a href="https://github.com/S3gmentati0nFault/Tesi-triennale/releases/tag/Major">Tesi-triennale</a>
 - Beta release for the notes I wrote for Cloud computing technologies -> <a href="https://github.com/S3gmentati0nFault/Cloudy-notes/releases/tag/First-release">Cloudy-notes</a>
 - Major release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/versione_2.0">Algoweb 2.0</a>
+- Release of the "research-paper" for the cloud computing technologies course -> <a href="https://github.com/S3gmentati0nFault/cct-paper/releases/tag/final">cct-paper 1.0</a>

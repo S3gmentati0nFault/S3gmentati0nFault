@@ -15,11 +15,7 @@
 -->
 
 
-I'm Alessandro, I'm 23 and I'm working on my master degree in computer science, I want to get involved in the field of cloud computing, distributed computing and high performance systems. 
-
-<br>
-
-I work on a lot of stuff and maybe half of it gets through.
+I'm Alessandro, I'm 24 and I'm working on my master degree in computer science, I am currently trying to divert my attention to the world of physics, started my thesis on the recognition of quench events with machine learning models (🤞).
 
 
 On vacation! Leave me alone.

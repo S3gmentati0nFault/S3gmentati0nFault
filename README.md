@@ -78,4 +78,4 @@ In the following section I leave the links to the latest releases for my project
 - Beta release for the notes I wrote for Cloud computing technologies -> <a href="https://github.com/S3gmentati0nFault/Cloudy-notes/releases/tag/First-release">Cloudy-notes</a>
 - Major release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/versione_2.0">Algoweb 2.0</a>
 - Release of the "research-paper" for the cloud computing technologies course -> <a href="https://github.com/S3gmentati0nFault/cct-paper/releases/tag/final">cct-paper 1.0</a>
-- Last release of the notes for the Cloud computing technologies course -> <a href"https://github.com/S3gmentati0nFault/Cloudy-notes/releases/tag/Last-release">Cloudy-notes</a>
+- Last release of the notes for the Cloud computing technologies course -> <a href="https://github.com/S3gmentati0nFault/Cloudy-notes/releases/tag/Last-release">Cloudy-notes</a>

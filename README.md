@@ -74,8 +74,8 @@ In my spare time I enjoy watching movies and trying to do something productive w
 
 ### Latest releases 📯
 In the following section I leave the links to the latest releases for my projects (from older to newer).
-- Major release for my Web Algorithmics lecture notes -> <a href="https://github.com/S3gmentati0nFault/Algoweb/releases/tag/versione_2.0">Algoweb 2.0</a>
 - Release of the "research-paper" for the cloud computing technologies course -> <a href="https://github.com/S3gmentati0nFault/cct-paper/releases/tag/final">cct-paper 1.0</a>
 - Final release of the notes for the Cloud computing technologies course -> <a href="https://github.com/S3gmentati0nFault/Cloudy-notes/releases/tag/Last-release">Cloudy-notes</a>
 - Final release of the project I did for the course of cpp programming -> <a href="https://github.com/S3gmentati0nFault/programmazione-cpp/releases/tag/Final-release">programmazione-cpp</a>
 - Final release of the project I did for the course of programming languages -> <a href="https://github.com/S3gmentati0nFault/MST-implementation/releases/tag/Final-release">Mst-implementation</a>
+- Final release of the Anomaly detection project using autoencoders -> <a href="https://github.com/S3gmentati0nFault/autoencoders/releases/tag/final-release">autoencoders</a>

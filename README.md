@@ -17,6 +17,8 @@
 
 I'm Alessandro, I'm 24 and I'm working on my master degree in computer science, I am currently trying to divert my attention to the world of physics, started my thesis on the recognition of quench events with machine learning models (🤞).
 
+I finally created a <a href="https://s3gmentati0nfault.github.io/">portfolio website</a>! Definitely needs some polishing but I will work on that some other time.
+
 
 On vacation! Leave me alone.
 

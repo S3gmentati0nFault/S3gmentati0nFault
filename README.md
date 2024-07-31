@@ -79,3 +79,4 @@ In the following section I leave the links to the latest releases for my project
 - Final release of the project I did for the course of cpp programming -> <a href="https://github.com/S3gmentati0nFault/programmazione-cpp/releases/tag/Final-release">programmazione-cpp</a>
 - Final release of the project I did for the course of programming languages -> <a href="https://github.com/S3gmentati0nFault/MST-implementation/releases/tag/Final-release">Mst-implementation</a>
 - Final release of the Anomaly detection project using autoencoders -> <a href="https://github.com/S3gmentati0nFault/autoencoders/releases/tag/final-release">autoencoders</a>
+- Final release of the Greenfield project -> <a href="https://github.com/S3gmentati0nFault/Greenfield/releases/tag/final-release">Greenfield</a>

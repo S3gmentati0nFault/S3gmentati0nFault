@@ -19,9 +19,6 @@ I'm Alessandro, I'm 24 and I'm working on my master degree in computer science, 
 
 I finally created a <a href="https://s3gmentati0nfault.github.io/">portfolio website</a>! Definitely needs some polishing but I will work on that some other time.
 
-
-On vacation! Leave me alone.
-
   <!--
   - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">disk-utility</a> 💾 <br>
     a very useful (and essentially custom) utility I am creating to implement on a computer at my place to preserve the pictures we have taken over the years. I am trying to mimic a multithreaded approach and handling of the structure similar to the one used to keep <a href="https://en.wikipedia.org/wiki/Log-structured_merge-tree"> LSM trees </a> alive.
@@ -72,12 +69,3 @@ On vacation! Leave me alone.
   Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition) -->
 
 In my spare time I enjoy watching movies and trying to do something productive with my life.
-
-
-### Latest releases 📯
-In the following section I leave the links to the latest releases for my projects (from older to newer).
-- Final release of the notes for the Cloud computing technologies course -> <a href="https://github.com/S3gmentati0nFault/Cloudy-notes/releases/tag/Last-release">Cloudy-notes</a>
-- Final release of the project I did for the course of cpp programming -> <a href="https://github.com/S3gmentati0nFault/programmazione-cpp/releases/tag/Final-release">programmazione-cpp</a>
-- Final release of the project I did for the course of programming languages -> <a href="https://github.com/S3gmentati0nFault/MST-implementation/releases/tag/Final-release">Mst-implementation</a>
-- Final release of the Anomaly detection project using autoencoders -> <a href="https://github.com/S3gmentati0nFault/autoencoders/releases/tag/final-release">autoencoders</a>
-- Final release of the Greenfield project -> <a href="https://github.com/S3gmentati0nFault/Greenfield/releases/tag/final-release">Greenfield</a>

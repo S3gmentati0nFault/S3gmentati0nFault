@@ -15,9 +15,7 @@
 -->
 
 
-I'm Alessandro, I'm 24 and I'm working on my master degree in computer science, I am currently trying to divert my attention to the world of physics, started my thesis on the recognition of quench events with machine learning models (🤞).
-
-I finally created a <a href="https://s3gmentati0nfault.github.io/">portfolio website</a>! Definitely needs some polishing but I will work on that some other time.
+I'm Alessandro, I'm 25 and recently graduated in computer science at University of Milan.
 
   <!--
   - <a href="https://github.com/S3gmentati0nFault/cloudy-notes">disk-utility</a> 💾 <br>
@@ -68,4 +66,3 @@ I finally created a <a href="https://s3gmentati0nfault.github.io/">portfolio web
 - <a href="https://github.com/S3gmentati0nFault/Algoweb">Algoweb</a> 🗺️ <br>
   Doing my spin of the material provided by Sebastiano Vigna for the course of Algoritmica Per Il Web at Unimi (2022/2023 edition) -->
 
-In my spare time I enjoy watching movies and trying to do something productive with my life.
